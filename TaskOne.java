@@ -1,7 +1,7 @@
 //Napisz program, który utworzy łańcuch znaków wypełniony cyframi układu szesnastkowego
 //Write a program that creates a string filled with hexadecimal digits
 
-public class TaskOneHexString {
+public class TaskOne {
     public static void main(String[] args) {
         String hexString = "";
         for (int i = 0; i < 16; i++) {
