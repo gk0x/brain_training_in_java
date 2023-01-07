@@ -9,7 +9,7 @@ public class TaskThree {
         //!(a && b) == !a || !b
         boolean a = true;
         boolean b = false;
-        // tworzymy sformatowaną tabelę:
+        // create a formatted table:
         System.out.println(
                 "a---b---!a---!b---(a&&b)---!(a&&b)---(!a||!b)---!(a||b)---!a&&!b---");
 
