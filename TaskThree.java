@@ -7,13 +7,13 @@ public class TaskThree {
         // of two sets A and B is equal to the intersection of the complement of
         // the sets A and B
         //!(a && b) == !a || !b
-        boolean a = true;
-        boolean b = false;
+       boolean []bool = {false,true};
         // create a formatted table:
-        System.out.println(
-                "a---b---!a---!b---(a&&b)---!(a&&b)---(!a||!b)---!(a||b)---!a&&!b---");
 
-        System.out.println("------------------------------------------------------------------------");
+        System.out.println("p\tq\tp&&q\t!p\t!q\t!p||!q \t!(p&&q)\t!p||!q");
+        //if first law is a true: !(p&&q) <=>!p||!q
+
+
 
         //Second law states that the complement of the
         // intersection of two sets is the same as the union of their complements.
