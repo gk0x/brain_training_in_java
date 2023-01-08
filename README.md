@@ -18,5 +18,11 @@ a) "A\240b3&4\040"<br>
 [eng]Write a program demonstrating how the methods work:isDigit(), isLetter(),
 isLetterorDigit(), isLowerCase(), isSpaceChar(), isUpperCase(), isWhiteSpace() for character set:<br>
 a) "A\240b3&4\040"<br>
+### TaskFour:<br>
+[pl]Napisz aplikację, która obliczy sumę serii liczb naturalnych podanych jako parametry wywołania
+aplikacji.Wynik wyświetl na ekranie<br>
+[eng] Write a program, that will calculate the sum of a series of natural numbers given as call parameters application.
+Display the result on the screen. <br>
+
 
 
