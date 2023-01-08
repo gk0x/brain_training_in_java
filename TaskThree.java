@@ -13,6 +13,11 @@ public class TaskThree {
         System.out.println("p\tq\tp&&q\t!p\t!q\t!p||!q \t!(p&&q)\t!p||!q");
         //if first law is a true: !(p&&q) <=>!p||!q
 
+        for (boolean p : bool){
+            for (boolean q:bool){
+                System.out.print(p + "\t"+ q +"\t" +(p&&q) + "\t" + !(p&&q) );
+            }
+        }
 
 
         //Second law states that the complement of the
