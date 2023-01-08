@@ -23,6 +23,9 @@ a) "A\240b3&4\040"<br>
 aplikacji.Wynik wyświetl na ekranie<br>
 [eng] Write a program, that will calculate the sum of a series of natural numbers given as call parameters application.
 Display the result on the screen. <br>
+### TaskFive:<br>
+[pl] Napisz program zamieniający łancuch znaków słowa "coding" na ciąg bajtów odpowiadający tym znakom.<br>
+[eng] Write a program to replace the string of "coding" into a string of bytes corresponding to those characters. <br>
 
 
 
