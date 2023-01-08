@@ -11,6 +11,15 @@ wyświetlony w odrębnym wierszu <br>
 [eng] Write a program that displays on the screen the number of arguments to call the application and the given arguments. Every argument should be
 displayed on a separate line<br>
 ### TaskThree: <br>
-[pl] Napisz program, który w formie tabeli przedstawi dowód praw De Morgana<br>
-[eng]Write a program that presents a proof of De Morgan's laws in the form of a table<br>
+[pl] Napisz program,demonstrujący działanie metod: isDigit(), isLetter(),
+isLetterorDigit(), isLowerCase(), isSpaceChar(), isUpperCase(), isWhiteSpace() dla
+zestawu znaków:<br>
+a) "A\240b3&4\040"<br>
+b) "Łoś 0+\t" <br>
+c)"#\"\304\\\3444\b\n <br>
+[eng]Write a program demonstrating how the methods work:isDigit(), isLetter(),
+isLetterorDigit(), isLowerCase(), isSpaceChar(), isUpperCase(), isWhiteSpace() for character set:<br>
+a) "A\240b3&4\040"<br>
+b) "Łoś 0+\t" <br>
+c)"#\"\304\\\3444\b\n" <br>
 
