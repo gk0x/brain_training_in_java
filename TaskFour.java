@@ -5,6 +5,12 @@
 
 public class TaskFour {
     public static void main(String[] args) {
+        //args = {127, -242,391}
+int suma = 0;
+for (String argument: args){
+    suma+=Integer.parseInt(argument);
+}
+    System.out.println("suma = " + suma);
 
     }
 }
