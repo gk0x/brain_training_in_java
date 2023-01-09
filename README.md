@@ -32,4 +32,9 @@ Display the result on the screen. <br>
 ### TaskSeven: <br>
 [pl] Napisz program zamieniający łańcuch cyfr szesnastkowych na odpowiadający mu łańcuch znaków ASCII <br>
 [eng] Write a program that converts a string of hexadecimal digits to the corresponding ASCII string<br>
+### TaskEight: <br>
+[pl] Ciąg bitów 111110000011110000111000110010 reprezentuje pewną liczbę zmienno-przecinkową pojedynczej precyzji.
+Jaką wartość dziesiętną ma ta liczba? Napisz program wyznaczający tę wartość.<br>
+[eng]The bit string 111110000011110000111000110010 represents some single precision floating point number.
+What is the decimal value of this number? Write a program to evaluate this value.<br>
 
