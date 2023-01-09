@@ -27,8 +27,9 @@ Display the result on the screen. <br>
 [pl] Napisz program zamieniający łancuch znaków słowa "coding" na ciąg bajtów odpowiadający tym znakom.<br>
 [eng] Write a program to replace the string of "coding" into a string of bytes corresponding to those characters. <br>
 ### TaskSix: <br>
-[pl] Napisz program zamieniający ciąg bajtów {115,122,121,102,114} na łańcuch znaków odpowiadający tym liczbom
-[eng] Write a program that converts the byte string {115,122,121,102,114} into a string corresponding to these numbers
-
-
+[pl] Napisz program zamieniający ciąg bajtów {115,122,121,102,114} na łańcuch znaków odpowiadający tym liczbom<br>
+[eng] Write a program that converts the byte string {115,122,121,102,114} into a string corresponding to these numbers<br>
+### TaskSeven: <br>
+[pl] Napisz program zamieniający łańcuch cyfr szesnastkowych na odpowiadający mu łańcuch znaków ASCII <br>
+[eng] Write a program that converts a string of hexadecimal digits to the corresponding ASCII string<br>
 
