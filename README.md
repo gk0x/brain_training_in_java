@@ -42,3 +42,11 @@ What is the decimal value of this number? Write a program to evaluate this value
 do 6 miejsc po przecinku <br>
 [eng] Write an application that displays the arithmetic roots from degree 2 to 10 of 5 to the console with precision
 to 6 decimal places <br>
+### TaskTen: <br>
+[pl] Oblicz kąty ostre w trójkącie egipskim (trójkąt prostokątny o proporcji długości boków 3:4:5). Wyniki podaj:<br>
+a) w radianach, z dokładnością do 4 miejsc po przecinku. <br>
+b) w stopniach, minutach i sekundach kątowych,z dokładnością do 1'.<br>
+[eng] Calculate the acute angles in the Egyptian triangle (a right triangle with a side length ratio of 3:4:5).
+Enter the results: <br>
+a) in radians, accurate to 4 decimal places. <br>
+b) in degrees, minutes and seconds of arc, accurate to 1'. <br>

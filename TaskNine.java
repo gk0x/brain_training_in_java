@@ -7,8 +7,8 @@ public class TaskNine {
     public static void main(String[] args) {
         int[] data = {2, 3, 4, 5, 6, 7, 8, 9, 10};
         for (int n : data) {
-            double x = Math.pow(5, 1.0 /n);
-            System.out.printf("Pierwiastek %2d stopnia z 5: %f\n" , n, x);
+            double x = Math.pow(5, 1.0 / n);
+            System.out.printf("Pierwiastek %2d stopnia z 5: %f\n", n, x);
         }
 
     }
