@@ -37,4 +37,8 @@ Display the result on the screen. <br>
 Jaką wartość dziesiętną ma ta liczba? Napisz program wyznaczający tę wartość.<br>
 [eng]The bit string 111110000011110000111000110010 represents some single precision floating point number.
 What is the decimal value of this number? Write a program to evaluate this value.<br>
-
+### TaskNine: <br>
+[pl] Napisz aplikację, która wyświetli w konsoli pierwiastki arytmetyczne od stopnia 2 do 10 z liczby 5 z dokładnością
+do 6 miejsc po przecinku <br>
+[eng] Write an application that displays the arithmetic roots from degree 2 to 10 of 5 to the console with precision
+to 6 decimal places <br>
