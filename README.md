@@ -50,3 +50,8 @@ b) w stopniach, minutach i sekundach kątowych,z dokładnością do 1'.<br>
 Enter the results: <br>
 a) in radians, accurate to 4 decimal places. <br>
 b) in degrees, minutes and seconds of arc, accurate to 1'. <br>
+### TaskEleven: <br>
+[pl] Łańcuch znaków zawiera oddzielone odstępami imię i nazwisko pracownika, liczbę przepracowanych godzin i stawkę 
+godzinową. Napisz program obliczający na tej podstawie wynagrodzenie należne pracownikowi. <br>
+[eng] The string separated by spaces contains the name of the employee, the number of hours worked, and the rate
+hourly. Write a program that calculates the salary due to the employee on this basis. <br>
