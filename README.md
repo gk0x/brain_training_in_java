@@ -55,3 +55,8 @@ b) in degrees, minutes and seconds of arc, accurate to 1'. <br>
 godzinową. Napisz program obliczający na tej podstawie wynagrodzenie należne pracownikowi. <br>
 [eng] The string separated by spaces contains the name of the employee, the number of hours worked, and the rate
 hourly. Write a program that calculates the salary due to the employee on this basis. <br>
+### TaskTwelve: <br>
+[pl]Użytkownik wprowadza z klawiatury trzy liczby a,b i c. Napisz program, ktory wyświetli najmniejszą(lub największą)
+z tych liczb. Nie wprowadzaj dodatkowych zmiennych.
+[eng] The user enters three numbers a, b and c from the keyboard. Write a program that displays the smallest (or largest)
+of these numbers. Do not initialize other variables.
